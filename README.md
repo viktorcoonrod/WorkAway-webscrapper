@@ -6,6 +6,6 @@ This webscrapper goes through the Workaway website and pulls out how many hours 
 3 replace url with yours and remove the 2 at the end on line 12
 4 replace the textfile name with your text file on line 8 and 37
 5 finally on line 45 replace the range with the pages you want scraped
-6 run the code and wait until your hear me say "your dode is done done diddly done done"
+6 run the code wtih "python3 PageScrapper.py" and wait until your hear me say "your code is done done diddly done done"
 
 PS I also added all of the files I created with this that you can use instead but they might be outdated.
